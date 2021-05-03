@@ -11,10 +11,12 @@
   "version": "1.0.0",
   "main": "server.js",
   "devDependencies": {
-    "eslint": "^7.24.0"
+    "chai": "^4.3.4",
+    "eslint": "^7.24.0",
+    "mocha": "^8.3.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha 'test/**/*.js'"
   },
   "keywords": [],
   "author": "",
