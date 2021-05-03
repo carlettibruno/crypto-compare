@@ -7,9 +7,9 @@
     "mongoose": "^5.12.7",
     "node-binance-api": "^0.12.5"
   },
-  "name": "crypto_compare",
+  "name": "crypto-compare",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "devDependencies": {
     "eslint": "^7.24.0"
   },
